@@ -7,7 +7,7 @@ This is an assignment Nate gave us to complete to see how much of the work do we
 - Create your base folder structure (images, index.html)
 
 ## Live Link
-- https://nateb228.github.io/html/index.html
+- https://khumet817.github.io/html_assignment/index.html
 
 ## Prevalent Technologies Used
 
@@ -35,7 +35,7 @@ Tools:
 
 ### Changelog
 
-2018-11-15:
+2018-11-21:
 - Base folders added
 - Readme Created
 - Live Link Created
